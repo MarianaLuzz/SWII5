@@ -1,5 +1,5 @@
-//Mariana Costa da Luz
-
+//Mariana Costa da Luz CB3021653
+//Ronald Pereira Evangelista CB3020282
 package customer;
 
 import java.sql.Connection;
